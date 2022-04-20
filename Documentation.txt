@@ -1,0 +1,43 @@
+# BOOLEAN INFORMATION RETRIEVAL SYSTEM
+
+Functions in the code:
+stopword_removal(corpus)
+stemming(final_tokens)
+lemmatization(stemmed_words_ps)
+wildcard_handling(strr, pattern, n, m)
+spelling_correction(strr)
+finding_all_unique_words_and_freq(words)
+inverted_index_data
+time_computation
+
+Libraries used:
+nltk
+pandas as pd
+numpy as np
+matplotlib
+nltk.tokenize
+nltk.corpus
+time
+
+Data Preprocessing:
+Removal of stopwords
+Stemming
+Lemmatization
+WildCard Query Handling
+Spelling correction: Edit distance method
+
+Inverted Index
+Query Management
+
+> Part of Information Retrieval 
+
+## Information Retrieval
+
+### Dataset
+
+The dataset used for this purpose is taken from class files of Shakespeares Literature docs.
+
+### Usage
+
+Run the Code,
+Enter the Query and find the results of a Boolean Information Retrieval using Inverted Index
