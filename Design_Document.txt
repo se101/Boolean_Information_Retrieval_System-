@@ -1,0 +1,13 @@
+DESIGN DOCUMENT
+
+APPLICATION ARCHITECTURE: 
+list of documents
+list of words (after stopword removal, lemmetization, stemming)
+list of tokens
+building index 
+Querying
+
+RUNNING TIME:
+PREPROCESSING:0.002995563507080078
+BUILDING INDEX:0.002054765502080067
+QUERYING:0.001985662504085049
